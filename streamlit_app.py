@@ -82,7 +82,7 @@ def main():
 
     # Branding Footer
     st.markdown("--- ")
-     st.markdown("<p style='text-align: center; color: #888888; font-size: small;'>Developed by Ahmed Saeed Noaman | <a href='https://www.linkedin.com/in/ahmed-noaman-data' target='_blank' rel='noopener noreferrer'>LinkedIn</a> | Data Analytics Project</p>", unsafe_allow_html=True))
+    st.markdown("<p style='text-align: center; color: #888888; font-size: small;'>Developed by Ahmed Saeed Noaman | <a href='https://www.linkedin.com/in/ahmed-noaman-data' target='_blank' rel='noopener noreferrer'>LinkedIn</a> | Data Analytics Project</p>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
